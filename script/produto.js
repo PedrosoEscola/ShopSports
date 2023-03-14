@@ -1,3 +1,7 @@
+function goback() {
+  window.history.back()
+}
+
 // recupera o objeto armazenado no localStorage e converte de volta para um objeto
 const produtoSelecionado = JSON.parse(
   localStorage.getItem('produtoSelecionado')
