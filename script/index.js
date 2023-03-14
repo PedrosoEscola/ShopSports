@@ -8,28 +8,36 @@ const novidades = [
     price: 'R$ 219,99',
     image: '/ShopSports/images/argentina1.png',
     id: '13',
-    novidade: true
+    novidade: true,
+    descri:
+      'Malha aberta com canais de ventilação que mantêm o ar fresco circulando enquanto eliminam o suor e o calor.'
   },
   {
     name: 'Camiseta Argentina II',
     price: 'R$ 219,99',
     image: '/ShopSports/images/argentina2.jpeg',
     id: '14',
-    novidade: true
+    novidade: true,
+    descri:
+      'Malha aberta com canais de ventilação que mantêm o ar fresco circulando enquanto eliminam o suor e o calor.'
   },
   {
     name: 'Camiseta Brasil I',
     price: 'R$ 239,99',
     image: '/ShopSports/images/brasil1.jpeg',
     id: '15',
-    novidade: true
+    novidade: true,
+    descri:
+      'Malha aberta com canais de ventilação que mantêm o ar fresco circulando enquanto eliminam o suor e o calor.'
   },
   {
     name: 'Camiseta Brasil II',
     price: 'R$ 239,99',
     image: '/ShopSports/images/brasil2.png',
     id: '16',
-    novidade: true
+    novidade: true,
+    descri:
+      'Malha aberta com canais de ventilação que mantêm o ar fresco circulando enquanto eliminam o suor e o calor.'
   }
 ]
 

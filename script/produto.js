@@ -17,3 +17,4 @@ const precoProd = document.querySelector('.preco')
 imgProd.src = produtoSelecionado.image
 nameProd.innerHTML = produtoSelecionado.name
 precoProd.innerHTML = produtoSelecionado.price
+descriProd.innerHTML = produtoSelecionado.descri
